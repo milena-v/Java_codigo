@@ -58,4 +58,5 @@ Una vez todo está en orden, si tienes una rama, te mueves a master, o main, y s
     Si estás en la carpeta Java y quieres ir a la carpeta siemprecoge:
     -deberás escribir: cd ./siempreCoge
 3. mkdir-> crear directiorio
-4. touch-> crear archivo
+4. touch-> crear archivov
+Hello world 
