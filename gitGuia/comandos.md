@@ -1,6 +1,6 @@
 GIT GUIA PARA LA JEFA JEFAZA CON GAFAS HOLA BARBIE Y ESE DILDO, EL GALLLLLLLLLO CLAUDIO Y PERÚ
 
-
+r
 # COMANDOS BÁSICOS 
 1. mkdir -> crear carpeta-> dir (directorio)
 2. ls -l -> ver donde estas, y las carpetas/archivos
