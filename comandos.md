@@ -1,6 +1,5 @@
-GIT GUIA PARA LA JEFA JEFAZA CON GAFAS HOLA BARBIE Y ESE DILDO, EL GALLLLLLLLLO CLAUDIO Y PERÚ
+GIT GUIA PARA LA JEFA JEFAZA CON GAFAS HOLA BARBIE Y ESE DILDO, EL GALLLLLLLLLO CLAUDIO Y PERUANI
 
-r
 # COMANDOS BÁSICOS 
 1. mkdir -> crear carpeta-> dir (directorio)
 2. ls -l -> ver donde estas, y las carpetas/archivos
@@ -58,5 +57,5 @@ Una vez todo está en orden, si tienes una rama, te mueves a master, o main, y s
     Si estás en la carpeta Java y quieres ir a la carpeta siemprecoge:
     -deberás escribir: cd ./siempreCoge
 3. mkdir-> crear directiorio
-4. touch-> crear archivov
+4. touch-> crear archivos
 Hello world 
